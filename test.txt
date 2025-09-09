@@ -1,0 +1,53 @@
+GET /rpc_proxy/fcgi-bin/music_open_api.fcg?app_id=2000000147&dev_type=1&device_id=206bc9524f2d4d78&login_type=5&opi_cmd=fcg_music_custom_get_song_info_batch.fcg&qqmusic_access_token=2e66a0dab0fe7958258074dcbfa460d00e01772cdf0a35bcef6182ea89897170&qqmusic_open_appid=98&qqmusic_open_id=10183146714920967373&sign_version=v2&song_id=680282&timestamp=1735744458&user_login_type=6&sign=ec7bab741a5b0d521d823f87fa4fcde3 HTTP/1.1
+Host: openrpc.music.qq.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.99 Safari/537.36 TeslaMusic/feature-2024.38.8-6-f345dc88e1
+Accept: */*
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: zh-CN,zh;q=0.9
+Origin: http://firmware-media.vn.teslamotors.com:9000
+Referer: http://firmware-media.vn.teslamotors.com:9000/
+Sec-Ch-Ua: "Chromium";v="127", "Not)A;Brand";v="99"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Linux"
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+X-Forwarded-For: 127.0.0.1
+X-Forwarded-Host: 
+
+GET /rpc_proxy/fcgi-bin/music_open_api.fcg?app_id=2000000147&dev_type=1&device_id=206bc9524f2d4d78&login_type=5&opi_cmd=fcg_music_custom_get_lyric.fcg&qqmusic_access_token=2e66a0dab0fe7958258074dcbfa460d00e01772cdf0a35bcef6182ea89897170&qqmusic_open_appid=98&qqmusic_open_id=10183146714920967373&sign_version=v2&song_id=680282&timestamp=1735744458&user_login_type=6&sign=ec9cdf16c9dbcb578bb41e2f859673d7 HTTP/1.1
+Host: openrpc.music.qq.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.99 Safari/537.36 TeslaMusic/feature-2024.38.8-6-f345dc88e1
+Accept: */*
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: zh-CN,zh;q=0.9
+Origin: http://firmware-media.vn.teslamotors.com:9000
+Referer: http://firmware-media.vn.teslamotors.com:9000/
+Sec-Ch-Ua: "Chromium";v="127", "Not)A;Brand";v="99"
+Sec-Ch-Ua-Mobile: 王二
+Sec-Ch-Ua-Platform: "Linux"
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: 北京邮电大学
+X-Forwarded-For: 127.0.0.1
+X-Forwarded-Host: 
+王嘉旭
+
+wangjiaxu
+GET /rpc_proxy/fcgi-bin/music_open_api.fcg?app_id=2000000147&dev_type=1&device_id=206bc9524f2d4d78&id=680282&login_type=5&opi_cmd=fcg_music_custom_report_play_recently.fcg&qqmusic_access_token=2e66a0dab0fe7958258074dcbfa460d00e01772cdf0a35bcef6182ea89897170&qqmusic_open_appid=98&qqmusic_open_id=10183146714920967373&sign_version=v2&timestamp=1735744458&type=2&user_login_type=6&sign=9280c92c8c1e376fa11054f0aae890a8 HTTP/1.1
+Host: openrpc.music.qq.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.99 Safari/537.36 TeslaMusic/feature-2024.38.8-6-f345dc88e1
+Accept: */*
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: zh-CN,zh;q=0.9
+Origin: http://firmware-media.vn.teslamotors.com:9000
+Referer: http://firmware-media.vn.teslamotors.com:9000/
+Sec-Ch-Ua: "Chromium";v="127", "Not)A;Brand";v="99"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Linux"
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+X-Forwarded-For: 127.0.0.1
+X-Forwarded-Host: 
+
